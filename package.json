@@ -1,0 +1,27 @@
+{
+	"name": "three-transform-ctrls",
+	"version": "1.0.0",
+  	"dependencies": {
+    	"three": ">=0.91.0"
+  	},
+  	"description": "A module for using THREE.TransformControls with nodejs",
+  	"devDependencies": {
+    	"mocha": "^2.4.5",
+    	"mock-browser": "^0.92.10"
+  	},
+  	"keywords": [
+    	"threejs",
+    	"three",
+    	"3d",
+    	"transform",
+		"ctrls",
+    	"controls",
+    	"webGL"
+  	],
+  	"main": "index.js",
+  	"scripts": {
+    	"test": "echo \"Error: no test specified\" && exit 1"
+  	},
+  	"author": "h3rm3s1986",
+  	"license": "MIT"
+}
